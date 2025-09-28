@@ -48,3 +48,5 @@ Follow step 1 and 2 of <https://shopify.dev/docs/custom-storefronts/building-wit
 <!-- Security scan triggered at 2025-09-02 01:23:27 -->
 
 <!-- Security scan triggered at 2025-09-09 05:31:47 -->
+
+<!-- Security scan triggered at 2025-09-28 15:34:37 -->
